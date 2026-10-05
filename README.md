@@ -4,4 +4,4 @@ set of recipes as given by my grandma
 
 * pizza (TODO)
 * sauces (TODO)
-* sp(TODO)
+* spreads (TODO)
